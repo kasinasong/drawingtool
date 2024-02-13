@@ -1,0 +1,56 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.pinkbutton{
+display: inline-block;
+outline: none;
+cursor: pointer;
+border:3px solid #2A2B2A;
+border-radius: 50px;
+background-color: #D393B0;
+}
+  
+.greenbutton{
+display: inline-block;
+outline: none;
+cursor: pointer;
+border:3px solid #2A2B2A;
+border-radius: 50px;
+background-color: #009E6F;
+}  
+
+.brownbutton{
+display: inline-block;
+outline: none;
+cursor: pointer;
+border:3px solid #2A2B2A;
+border-radius: 50px;
+background-color: #B05800;
+} 
+
+.bluebutton{
+display: inline-block;
+outline: none;
+cursor: pointer;
+border:3px solid #2A2B2A;
+border-radius: 50px;
+background-color: #70AEC8;
+}
+
+.Button{
+display: inline-block;
+font-family: arial;
+font-size: 15px;
+font-style:bold;
+outline: none;
+cursor: pointer;
+border:3px solid #2A2B2A;
+border-radius: 50px;
+background-color: #E6D6AC;
+                    
+}
